@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @vyshukasu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-printf("hi");
-<!---
-vyshukasu/vyshukasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+LEETCODE INFO
+![leetcode](https://github.com/user-attachments/assets/506f26d8-057a-42ee-b775-24897fd094d3)
+
