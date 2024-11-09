@@ -7,4 +7,12 @@ LEETCODE INFO
 Batches:
 
 
-https://assets.leetcode.com/static_assets/marketing/2024-50.gif
+
+![CodeChefBadge](https://github.com/user-attachments/assets/4cf61f5c-c789-4e4b-af72-54cf536fc414)
+![CodeChefBadge (1)](https://github.com/user-attachments/assets/83d37422-560c-424d-8f67-5d72c03b9e13)
+![2024-50](https://github.com/user-attachments/assets/b35b5f46-ebd7-46a8-bd06-67377c8015e6)
+
+
+
+SkillRack Profile:
+http://www.skillrack.com/profile/483034/1cae2f830a0663b1154ef17dc9dc5a9f913769b7
