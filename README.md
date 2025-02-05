@@ -17,5 +17,8 @@
 
 [Click here to view my SkillRack Profile](http://www.skillrack.com/profile/483034/1cae2f830a0663b1154ef17dc9dc5a9f913769b7)
 
-<p align="center"> <a href="https://portfolio-one-tau-84.vercel.app" target="_blank"> <img src="https://github.com/user-attachments/assets/506f26d8-057a-42ee-b775-24897fd094d3" width="150" /> </a> </p>
+<p align="center">
+  <a href="https://portfolio-one-tau-84.vercel.app" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/506f26d8-057a-42ee-b775-24897fd094d3" width="150" /> 
+  </a> </p>
 Click here to view my Portfolio
