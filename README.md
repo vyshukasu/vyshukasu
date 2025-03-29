@@ -1,6 +1,7 @@
 # LeetCode Info
 
-![LeetCode](https://github.com/user-attachments/assets/506f26d8-057a-42ee-b775-24897fd094d3)
+![Screenshot 2025-03-29 144634](https://github.com/user-attachments/assets/b1479776-e4e4-4e36-8a05-a320ea05916e)
+
 
 ## Batches:
 
