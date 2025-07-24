@@ -1,17 +1,15 @@
-🧠 About Me
-Hi! I'm Vyshnavi Kasu, a passionate and curious B.Tech student majoring in Artificial Intelligence and Machine Learning at Sri Eshwar College of Engineering. I thrive at the intersection of AI, Data Science, and Full Stack Development, where I build intelligent systems that solve real-world problems.
 
-I’m currently looking for internships and collaborations in the areas of:
+### Vyshnavi K 👋
 
-🔍 Natural Language Processing (NLP)
+Hey there! I'm Vyshnavi, building smart and accessible tech using **AI**, **Machine Learning**, and **Full Stack Web Development**,**Data Science**. Passionate about solving real-world challenges through intelligent, inclusive systems—from voice-driven plotters to localized voiceovers.
 
-🤖 Machine Learning & Deep Learning
+### 🚀 Skills and Experience
 
-🌐 Full Stack AI-based Web Applications
-
-📊 Data Analytics & Visualization
-
-Let’s connect and innovate together!
+* **Artificial Intelligence**, **Machine Learning**, **Data Science**, **NLP**
+* **Python**, **Java**, **C**
+* **HTML**, **CSS**, **JavaScript**
+* **SQL**, **MongoDB**
+* **Tools:** Jupyter, GitHub, Tableau, CNC Plotter, Whisper, Transformers
 
 
 # LeetCode Info
